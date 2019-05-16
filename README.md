@@ -18,18 +18,16 @@ https://github.com/nickearl/retrowave_theme
 ##Images
 
 *'Retrowave' Theme Gallery*
-![Retrowave Theme System View]( https://imgur.com/gallery/zgD4eWm )
+[Retrowave Theme System View]( https://imgur.com/gallery/zgD4eWm )
 
 *'Retrowave' Theme System View*
-![Retrowave Theme System View]( https://imgur.com/YaQUqLt )
+[Retrowave Theme System View]( https://imgur.com/YaQUqLt )
 
 *'Retrowave' Theme Basic View*
-![Retrowave Theme Basic View](https://imgur.com/GnisPq0)
+[Retrowave Theme Basic View](https://imgur.com/GnisPq0)
 
 *'Retrowave' Theme Detailed View*
-![Retrowave Theme Detailed View](https://imgur.com/7KwNLdv)
-
-[For more images view the album on Imgur](http://imgur.com/a/LjRZk)
+[Retrowave Theme Detailed View](https://imgur.com/7KwNLdv)
 
 
 ##Credits
