@@ -18,16 +18,16 @@ I've also created a video splashscreen in a matching style:
 ## Images
 
 *'Retrowave' Theme Gallery*
-[Retrowave Theme System View]( https://imgur.com/gallery/zgD4eWm )
+[Retrowave Theme Gallery]( https://imgur.com/gallery/zgD4eWm )
 
 *'Retrowave' Theme System View*
-[Retrowave Theme System View]( https://imgur.com/YaQUqLt )
+![Retrowave Theme System View]( https://imgur.com/YaQUqLt.png )
 
 *'Retrowave' Theme Basic View*
-[Retrowave Theme Basic View](https://imgur.com/GnisPq0)
+![Retrowave Theme Basic View](https://imgur.com/GnisPq0.png)
 
 *'Retrowave' Theme Detailed View*
-[Retrowave Theme Detailed View](https://imgur.com/7KwNLdv)
+![Retrowave Theme Detailed View](https://imgur.com/7KwNLdv.png)
 
 
 ## Credits
