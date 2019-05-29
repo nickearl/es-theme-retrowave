@@ -7,7 +7,7 @@ A simple 80's synthwave style theme for Emulationstation and RetroPie
 This retro-futuristic theme is inspired by the 80's aesthetic and synthwave music.
 Plenty of neon pink and teal, laser grids, and pixel text, but in a visually clean and simple style.
 
-https://github.com/nickearl/retrowave_theme
+https://github.com/nickearl/es-theme-retrowave
 
 ## Splashscreen
 
